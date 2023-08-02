@@ -1,0 +1,3 @@
+This is sample text to be printed out
+example line 1
+list dog, cat, jelly fish!!
